@@ -1,0 +1,4 @@
+﻿the denoise_final.pb is for dncnn to denoise images
+using read_and_train.py to read tfrecords and denoise and train for classification
+using model_test.py to  read tfrecords and denoise and test for classification
+output_graph.pb is training for image classification

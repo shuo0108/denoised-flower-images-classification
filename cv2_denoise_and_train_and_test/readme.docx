@@ -1,0 +1,3 @@
+denoising.py is imported by read_and_train.py to denoising images
+using read_and_train.py to denoising and train ,and produce the denoise_test.pb for test
+using denoise_model_test.py to test

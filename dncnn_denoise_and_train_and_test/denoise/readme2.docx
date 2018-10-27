@@ -1,0 +1,4 @@
+using generate_patches.py to produce .npy for .tfrecord
+using main.py to load .npy and train and produce .ckpt
+using ckpt_to_pb_and_denoise to convert .ckpt to .pb and test 
+
